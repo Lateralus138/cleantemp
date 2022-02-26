@@ -2,7 +2,7 @@
 
 <img alt="Logo 1" src="docs/media/images/cleantemp.png" height="64px">
 
-Change a console&#39;s title to the current time and date on a loop&#46; Windows version&#46;
+Clean temporary files and directories in Windows.&#46;
 
 - [Clean Temp](#clean-temp)
   - [About](#about)
