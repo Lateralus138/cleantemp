@@ -4,7 +4,17 @@ Change a console&#39;s title to the current time and date on a loop&#46; Windows
 
 ---
 
-This information is generated in a *GitHub Action* immediately after the successful build of this project.
+## Change Log
+
+Changes and fixes in 1.1.0.1683399661082 (1.1.0.0)
+
+- Fixed the wait prompt for *`skip_prompt`*.
+- Fixed exception throwing when indexing directories without administrative privileges.
+- Fixed the console mode to correctly display console color.
+
+---
+
+This information is generated in a *GitHub Action* immediately after the successful build of this projehct.
 
 ## Current X86 MD5
 

@@ -9,6 +9,7 @@ Clean temporary files and directories in Windows.&#46;
     - [Description](#description)
     - [Motivation](#motivation)
     - [Where To Get](#where-to-get)
+    - [Change Log](#change-log)
   - [Usage](#usage)
     - [Environment and Information](#environment-and-information)
     - [Examples](#examples)
@@ -50,6 +51,14 @@ All about this program and project&#46;
   You can fork this repository and build yourself or you can download it at the current <a href="https://github.com/Lateralus138/cleantemp/releases">Releases</a> page&#46;
   </p>
 </details>
+
+### Change Log
+
+Changes and fixes in 1.1.0.1683399661082 (1.1.0.0)
+
+- Fixed the wait prompt for *`skip_prompt`*.
+- Fixed exception throwing when indexing directories without administrative privileges.
+- Fixed the console mode to correctly display console color.
 
 ---
 
