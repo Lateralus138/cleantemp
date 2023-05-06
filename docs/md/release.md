@@ -1,6 +1,6 @@
 # Clean Temp
 
-Change a console&#39;s title to the current time and date on a loop&#46; Windows version&#46;
+Clean temporary files and directories in Windows.&#46;
 
 ---
 
