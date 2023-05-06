@@ -8,7 +8,6 @@ on:
       - '**.sln'
       - '**.yml'
       - '**.ps1'
-
 jobs:
   build_windows:
     name: Build Solution
