@@ -54,6 +54,7 @@ jobs:
         ((Get-Content -path $file -Raw) -replace 'PLACEHOLDER',$hash) | Set-Content -Path "$file"
     - name: Push MD5
       run: |
+        git pull
         git config --global user.name "Lateralus138"
         git config --global user.email "faithnomoread@yahoo.com"
         git add docs/json
